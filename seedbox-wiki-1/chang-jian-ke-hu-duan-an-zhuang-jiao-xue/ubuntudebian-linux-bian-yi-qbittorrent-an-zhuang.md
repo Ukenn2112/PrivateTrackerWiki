@@ -136,3 +136,43 @@ chmod 777 /home/Downloads
 
 把下载路径设置到/home/Downloads就OK了！
 
+## 使用备用 qBittorrent WebUI 面板
+
+#### 替换 WebUI <a id="&#x66FF;&#x6362;-WebUI"></a>
+
+目前备用 UI 尚不完善，对我而言仅仅是多了个方便分类查看 tracker 的功能，**不推荐使用**，当然随便尝鲜
+
+这里提供两个大佬的项目
+
+1. [CzBiX](https://github.com/CzBiX/qb-web) （下面是使用此项目进行示例）
+2. [miniers](https://github.com/miniers/qb-web)
+
+> 若出现乱码，在地址栏后面加入 `/api/v2/app/setPreferences?json=%7B%22alternative_webui_enabled%22:false%7D` 进行返回原本 UI
+>
+> 乱码解决方式，查看自己路径是否正确
+
+### **1. 下载安装备用 WebUI**
+
+下载备用 WebUI至qBittorrent根目录
+
+```text
+cd qBittorrent-release-4.2.5
+wget https://github.com/CzBiX/qb-web/archive/nightly-05ec91.tar.gz
+```
+
+上面是下载写此文章前最新的版本  如需最新版本请看 [https://github.com/CzBiX/qb-web/releases](https://github.com/CzBiX/qb-web/releases)
+
+### 2.解压
+
+```text
+tar -zxvf qb-web-nightly-05ec91.tar.gz
+```
+
+### 3.在 Web 用户界面启用备用 Web UI
+
+![](../../.gitbook/assets/20200718142352.png)
+
+填写`/root/qBittorrent-release-4.2.5/qb-web-nightly-05ec91/`注意结尾一定要带`/`不然会出现乱码
+
+保存即可
+
