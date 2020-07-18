@@ -1,5 +1,7 @@
 ---
-description: 'by 神北小毬 https://npchk.info/ubuntu-debian-install-qbittorrent/'
+description: >-
+  by 神北小毬 https://npchk.info/ubuntu-debian-install-qbittorrent/
+  https://blog.zuiyu1818.cn/posts/NAS_qBittorrent.html
 ---
 
 # Ubuntu/Debian Linux编译qBittorrent安装
