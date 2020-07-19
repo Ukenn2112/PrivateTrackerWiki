@@ -1,8 +1,8 @@
 ---
-description: 'http://blog.sina.cn/dpool/blog/s/blog_65637f130102zbno.html'
+description: 'http://blog.sina.cn/dpool/blog/s/blog_65637f130102zbno.html（2020-02-12更新）'
 ---
 
-# qBittorrent参数详细设置教程（2020-02-12更新）
+# qBittorrent参数详细设置教程
 
 全文将以目前的最新版v4.2.1为例，进行参数设置，老版本某些功能不太一致，请知悉。
 
