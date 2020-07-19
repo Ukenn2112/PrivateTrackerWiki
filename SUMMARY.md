@@ -21,4 +21,5 @@
 * [常见PT客户端忘记密码的解决方法](seedbox-wiki-1/chang-jian-pt-ke-hu-duan-wang-ji-mi-ma-de-jie-jue-fang-fa.md)
 * [高性价比 seedbox 统计 by Aniverse](https://www.kdocs.cn/l/sNHCWHL2J)
 * [PT 限盒／限 IP／HR 情况统计表 by Aniverse](https://www.kdocs.cn/l/sEi6Sg5iu)
+* [使用MTU设置优化Ubuntu Internet速度](seedbox-wiki-1/shi-yong-mtu-she-zhi-you-hua-ubuntu-internet-su-du.md)
 
