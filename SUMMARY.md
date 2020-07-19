@@ -24,3 +24,7 @@
 * [高性价比 seedbox 统计 by Aniverse](https://www.kdocs.cn/l/sNHCWHL2J)
 * [PT 限盒／限 IP／HR 情况统计表 by Aniverse](https://www.kdocs.cn/l/sEi6Sg5iu)
 
+---
+
+* [Aniverse（星大）语 录](aniverse-xing-da-yu-lu.md)
+
