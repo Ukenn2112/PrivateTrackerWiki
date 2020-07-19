@@ -14,6 +14,7 @@
 * [盒子\(SeedBox\)的选择&购买](seedbox-wiki-1/he-zi-seedbox-de-xuan-ze-gou-mai.md)
 * [Flexget 安装&配置 入门级教程](seedbox-wiki-1/untitled-1.md)
 * [自动移除种子及其数据](seedbox-wiki-1/zi-dong-yi-chu-zhong-zi-ji-qi-shu-ju.md)
+* [Ubuntu 18.04 手动修改 DNS 方法](seedbox-wiki-1/ubuntu-18.04-shou-dong-xiu-gai-dns-fang-fa.md)
 * [客户端编译安装教学](seedbox-wiki-1/chang-jian-ke-hu-duan-an-zhuang-jiao-xue/README.md)
   * [Ubuntu/Debian Linux编译Deluge安装](seedbox-wiki-1/chang-jian-ke-hu-duan-an-zhuang-jiao-xue/ubuntudebian-linux-bian-yi-deluge-an-zhuang.md)
   * [Ubuntu/Debian Linux编译qBittorrent安装](seedbox-wiki-1/chang-jian-ke-hu-duan-an-zhuang-jiao-xue/ubuntudebian-linux-bian-yi-qbittorrent-an-zhuang.md)
