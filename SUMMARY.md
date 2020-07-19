@@ -18,6 +18,7 @@
 * [客户端编译安装教学](seedbox-wiki-1/chang-jian-ke-hu-duan-an-zhuang-jiao-xue/README.md)
   * [Ubuntu/Debian Linux编译Deluge安装](seedbox-wiki-1/chang-jian-ke-hu-duan-an-zhuang-jiao-xue/ubuntudebian-linux-bian-yi-deluge-an-zhuang.md)
   * [Ubuntu/Debian Linux编译qBittorrent安装](seedbox-wiki-1/chang-jian-ke-hu-duan-an-zhuang-jiao-xue/ubuntudebian-linux-bian-yi-qbittorrent-an-zhuang.md)
+* [qBittorrent参数详细设置教程（2020-02-12更新）](seedbox-wiki-1/qbittorrent-can-shu-xiang-xi-she-zhi-jiao-cheng-20200212-geng-xin.md)
 * [常见PT客户端忘记密码的解决方法](seedbox-wiki-1/chang-jian-pt-ke-hu-duan-wang-ji-mi-ma-de-jie-jue-fang-fa.md)
 * [使用MTU设置优化Ubuntu Internet速度](seedbox-wiki-1/shi-yong-mtu-she-zhi-you-hua-ubuntu-internet-su-du.md)
 * [高性价比 seedbox 统计 by Aniverse](https://www.kdocs.cn/l/sNHCWHL2J)
