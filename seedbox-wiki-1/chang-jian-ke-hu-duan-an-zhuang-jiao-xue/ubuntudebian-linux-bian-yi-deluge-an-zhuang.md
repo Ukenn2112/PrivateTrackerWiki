@@ -276,3 +276,7 @@ Deluge把下載路徑設置到 /home/Downloads就OK了！
   
 安装完成后启用该插件即可~
 
+附送一张配置图
+
+![](../../.gitbook/assets/photo_2020-07-19_10-33-51.jpg)
+
