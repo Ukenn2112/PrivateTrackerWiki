@@ -27,4 +27,5 @@
 ---
 
 * [Aniverse（星大）语 录](aniverse-xing-da-yu-lu.md)
+* [U2分享園@動漫花園之资源申请\|发布细则](u2dmhyfb.md)
 
