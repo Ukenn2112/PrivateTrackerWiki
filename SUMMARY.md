@@ -24,6 +24,7 @@
 * [使用MTU设置优化Ubuntu Internet速度](seedbox-wiki-1/shi-yong-mtu-she-zhi-you-hua-ubuntu-internet-su-du.md)
 * [高性价比 seedbox 统计 by Aniverse](https://www.kdocs.cn/l/sNHCWHL2J)
 * [PT 限盒／限 IP／HR 情况统计表 by Aniverse](https://www.kdocs.cn/l/sEi6Sg5iu)
+* [SeedBox优化Linux的参数](seedbox-wiki-1/seedbox-you-hua-linux-de-can-shu.md)
 
 ---
 
