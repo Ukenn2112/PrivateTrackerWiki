@@ -45,8 +45,6 @@ apt install python python-twisted python-openssl python-setuptools intltool pyth
 [http://download.deluge-torrent.org/source/](http://download.deluge-torrent.org/source/)  
 從官網下載Deluge安裝包，若需指定版本請自行修改版本號 \(不適用於de2.0\)：
 
-
-
 ```text
 wget http://download.deluge-torrent.org/source/deluge-1.3.15.tar.xz
 ```
