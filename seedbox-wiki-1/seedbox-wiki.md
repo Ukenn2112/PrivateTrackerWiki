@@ -189,7 +189,7 @@ description: 'by https://github.com/Aniverse/WiKi/'
 time echo x | installimage -p /boot:ext3:1G,/:ext4:all -l 0 -r yes -i images/Debian-811-jessie-64-minimal.tar.gz  -n Hz -a && reboot
 
 # 安装 Debian 9
-time echo x | installimage -p /boot:ext3:1G,/:ext4:all -l 0 -r yes -i images/Debian-911-stretch-64-minimal.tar.gz -n Hz -a && reboot
+time echo x | installimage -p /boot:ext3:1G,/:ext4:all -l 0 -r yes -i images/Debian-912-stretch-64-minimal.tar.gz -n Hz -a && reboot
 
 # 安装 Debian 10
 time echo x | installimage -p /boot:ext3:1G,/:ext4:all -l 0 -r yes -i images/Debian-103-buster-64-minimal.tar.gz  -n Hz -a && reboot
