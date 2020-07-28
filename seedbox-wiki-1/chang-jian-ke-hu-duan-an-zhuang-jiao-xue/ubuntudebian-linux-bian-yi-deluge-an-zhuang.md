@@ -274,7 +274,74 @@ Deluge把下載路徑設置到 /home/Downloads就OK了！
   
 安装完成后启用该插件即可~
 
-附送一张配置图
+附送二个配置
 
-![](../../.gitbook/assets/photo_2020-07-19_10-33-51.jpg)
+**Itconfig 参数修改（适用于32G及以上内存独立服务器）**
+
+```text
+active_limit = 2000;
+active_seeds = 2000;
+allow_multiple_connections_per_ip: true
+auto_upload_slots = false;
+cache_buffer_chunk_size = 128;
+cache_expiry: 120;
+cache_size: 512000;
+choking_algorithm: 1;
+close_redundant_connections = true;
+enable_incoming_utp: false;
+enable_outgoing_utp: false;
+file_pool_size = 500;
+inactivity_timeout = 20;
+low_prio_disk: false;
+max_failcount = 1;
+max_queued_disk_bytes: 262144000;
+max_queued_disk_bytes_low_watermark: 131072000;
+max_rejects = 10;
+optimize_hashing_for_speed = true;
+peer_timeout = 20;
+read_cache_line_size = 512;
+request_timeout = 10;
+seed_choking_algorithm: 1;
+send_buffer_low_watermark: 13107200;
+send_buffer_watermark: 26214400;
+send_buffer_watermark_factor: 250;
+strict_end_game_mode: false;
+use_parole_mode: false;
+use_read_cache = true;
+write_cache_line_size = 512;
+```
+
+**Itconfig 参数修改（适用于8G及以上内存独立服务器）**
+
+```text
+active_limit = 2000;
+active_seeds = 2000;
+allow_multiple_connections_per_ip: true
+auto_upload_slots = false;
+cache_buffer_chunk_size = 128;
+cache_expiry: 60;
+cache_size: 131000;
+choking_algorithm: 1;
+close_redundant_connections = true;
+enable_incoming_utp: false;
+enable_outgoing_utp: false;
+file_pool_size = 500;
+inactivity_timeout = 20;
+low_prio_disk: false;
+max_failcount = 1;
+max_queued_disk_bytes: 7340032;
+max_rejects = 10;
+optimize_hashing_for_speed = true;
+peer_timeout = 20;
+read_cache_line_size = 64;
+request_timeout = 10;
+seed_choking_algorithm: 1;
+send_buffer_low_watermark: 1048576;
+send_buffer_watermark: 3145728;
+send_buffer_watermark_factor: 150;
+strict_end_game_mode: false;
+use_parole_mode: false;
+use_read_cache = true;
+write_cache_line_size = 256;
+```
 
