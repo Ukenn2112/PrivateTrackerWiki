@@ -6,6 +6,7 @@
 * [Private Tracker生存指南](private-tracker-sheng-cun-zhi-nan.md)
 * [常见红种原因分析及解决方法](chang-jian-hong-zhong-yuan-yin-fen-xi-ji-jie-jue-fang-fa.md)
 * [Private Tracker 常见站点导航](https://www.avdll.com/pt/)
+* [U2分享園@動漫花園之资源申请\|发布细则](u2dmhyfb.md)
 
 ## SeedBox Wiki <a id="seedbox-wiki-1"></a>
 
@@ -27,5 +28,4 @@
 ---
 
 * [Aniverse（星大）语 录](aniverse-xing-da-yu-lu.md)
-* [U2分享園@動漫花園之资源申请\|发布细则](u2dmhyfb.md)
 
