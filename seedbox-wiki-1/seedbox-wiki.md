@@ -34,6 +34,12 @@ description: 'by https://github.com/Aniverse/WiKi/'
 
   在十几秒内安装好静态编辑的 qbittorrent-nox 并进行配置，适配 CentOS／Fedora／Debian／Ubuntu／ArchLinux／OpenSUSE    
 
+## 安装魔改BBR/BBR Plus/锐速\(Lotserver\)
+
+```
+wget -N --no-check-certificate "https://raw.githubusercontent.com/hijkpw/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+```
+
 ## 常见独服／盒子购买网址
 
 * [OneProvider](https://oneprovider.com/dedicated-servers/paris-france)  
