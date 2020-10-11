@@ -14,8 +14,6 @@ description: 'https://u2.dmhy.org/forums.php?action=viewtopic&forumid=1&topicid=
 
 /s/1x8U2HHPCIRRYdZwLNHvzKg PW:4bzr
 
-![](file:///C:/Users/57360/AppData/Local/Temp/msohtmlclip1/01/clip_image003.gif)Telegram\(TG\)群组: [PBC チャット](https://t.me/joinchat/Gj0TVEptp81NpTK8X2qAbg).
-
 ![](file:///C:/Users/57360/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)把TG当作是体验较好的临时文件储存服务,逐渐会补上上面的所有东西\(软件安装包,自制外挂  结构,等等\)
 
 ![](file:///C:/Users/57360/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif)该TG群组的定位是非公开的,私人的\(不属于任何组织\).  欢迎日系动画原盘爱好者来交流分享经验.
