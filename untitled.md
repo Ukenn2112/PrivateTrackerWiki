@@ -2,7 +2,7 @@
 description: 'https://u2.dmhy.org/forums.php?action=viewtopic&forumid=1&topicid=12652'
 ---
 
-# BDPBC\_MANUAL
+# 原盘食用方法BDPBC\_MANUAL
 
 ## BDPBC\_MANUAL
 

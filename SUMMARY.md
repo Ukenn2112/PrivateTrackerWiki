@@ -29,5 +29,5 @@
 ---
 
 * [Aniverse（星大）语 录](aniverse-xing-da-yu-lu.md)
-* [BDPBC\_MANUAL](untitled.md)
+* [原盘食用方法BDPBC\_MANUAL](untitled.md)
 
