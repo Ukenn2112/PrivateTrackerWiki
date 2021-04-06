@@ -8,7 +8,7 @@ description: 用于汇总网络上有关Private Tracker相关的实用教程
 
 如有 建议/版权问题 烦请发issue
 
-Wiki Link ：[wiki.tql.tw](https://wiki.tql.tw/)
+Wiki Link ：[wiki.ukenn.top](https://wiki.ukenn.top/)
 
 
 
