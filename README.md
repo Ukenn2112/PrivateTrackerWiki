@@ -8,11 +8,9 @@ description: 用于汇总网络上有关Private Tracker相关的实用教程
 
 如有 建议/版权问题 烦请发issue
 
-Wiki Link ：[wiki.ukenn.top](https://wiki.ukenn.top/)
+Wiki Link ：[wiki.ukenn.top](https://wiki.ukenn.top)
 
-
-
-
+Wiki GitHub 项目：[https://github.com/Ukenn2112/PrivateTrackerWiki](https://github.com/Ukenn2112/PrivateTrackerWiki)
 
 
 
